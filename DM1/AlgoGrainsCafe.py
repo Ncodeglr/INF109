@@ -1,5 +1,6 @@
 import random as rd 
 
+#Algo from Coffee beans David Gries
 def setBoite():
     N = rd.randint(1,10)
     B = rd.randint(1,10)
